@@ -1,0 +1,32 @@
+header{
+    background-color: black;
+    
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+a:link, a:visited, a:hover, a:active{
+    color: rgb(56, 102, 228);
+    font-size: 16px;
+}
+
+body {
+    background: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: rgb(56, 102, 228);
+    font-size: 24px;
+}
+
+p{
+    font-size: 16px;
+}
+
+footer{
+    background-color: black;
+}
