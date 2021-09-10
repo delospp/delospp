@@ -9,7 +9,7 @@ header{
 }
 
 a:link, a:visited, a:hover, a:active{
-    color: rgb(56, 102, 228);
+    color: rgb(255, 255, 255);
     font-size: 16px;
 }
 
@@ -19,14 +19,62 @@ body {
 }
 
 h1{
+    color: rgb(219, 46, 104);
+    font-size: 48px;
+    text-align-last: center;
+}
+
+h2{
     color: rgb(56, 102, 228);
-    font-size: 24px;
+    font-size: 36px;
+    text-align-last: center;
 }
 
 p{
     font-size: 16px;
+    text-align-last: center;
 }
 
 footer{
     background-color: black;
+}
+
+.carousel{
+    width: 100%;
+    overflow: scroll;
+    padding: 30px;
+    position: relative;
+}
+
+.carousel__container{
+    white-space: nowrap;
+    margin: 70px 0px;
+    padding-bottom: 10px; 
+}
+
+.carousel-item{
+    background-color: rgb(219, 46, 104);
+    width: 200px;
+    Height: 250px;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-right: 10px;
+    display: inline-block;
+    cursor: pointer;
+    transition: 450ms all;
+    transform-origin: center;
+
+}
+
+.carousel-item:hover ~ .carousel-item{
+    transform: translate3d(100px, 0, 0);
+}
+
+.carousel__container:hover ~ .carousel-item {
+    opacity: 0.3;
+}
+
+.carousel__container:hover ~ .carousel-item:hover {
+    transform: scale(1.5);
+    opacity: 1;
 }
