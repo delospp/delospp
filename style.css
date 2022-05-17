@@ -1,80 +1,53 @@
-header{
-    background-color: black;
-    
+/*
+ * Globals
+ */
+
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
 }
 
-*{
-    margin:0;
-    padding: 0;
-}
 
-a:link, a:visited, a:hover, a:active{
-    color: rgb(255, 255, 255);
-    font-size: 16px;
-}
+/*
+ * Base structure
+ */
 
 body {
-    background: #eee;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
 
-h1{
-    color: rgb(219, 46, 104);
-    font-size: 48px;
-    text-align-last: center;
+.cover-container {
+  max-width: 42em;
 }
 
-h2{
-    color: rgb(56, 102, 228);
-    font-size: 36px;
-    text-align-last: center;
+
+/*
+ * Header
+ */
+
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: rgba(255, 255, 255, .5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
 }
 
-p{
-    font-size: 16px;
-    text-align-last: center;
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
 }
 
-footer{
-    background-color: black;
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
 }
 
-.carousel{
-    width: 100%;
-    overflow: scroll;
-    padding: 30px;
-    position: relative;
-}
-
-.carousel__container{
-    white-space: nowrap;
-    margin: 70px 0px;
-    padding-bottom: 10px; 
-}
-
-.carousel-item{
-    background-color: rgb(219, 46, 104);
-    width: 200px;
-    Height: 250px;
-    border-radius: 20px;
-    overflow: hidden;
-    margin-right: 10px;
-    display: inline-block;
-    cursor: pointer;
-    transition: 450ms all;
-    transform-origin: center;
-
-}
-
-.carousel-item:hover ~ .carousel-item{
-    transform: translate3d(100px, 0, 0);
-}
-
-.carousel__container:hover ~ .carousel-item {
-    opacity: 0.3;
-}
-
-.carousel__container:hover ~ .carousel-item:hover {
-    transform: scale(1.5);
-    opacity: 1;
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
 }
