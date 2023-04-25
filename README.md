@@ -14,10 +14,17 @@
 
 ⭐⭐⭐⭐⭐ I can teach.
 
+# Languages
 
 | Technology | Level |
 | ------ | ------ |
-| SFMC                | ⭐⭐⭐      |
+| Spanish             | ⭐⭐⭐⭐⭐ |
+| English             | ⭐⭐⭐⭐    |
+
+# Programming Languages
+
+| Technology | Level |
+| ------ | ------ |
 | Html                | ⭐⭐⭐      |
 | CSS                 | ⭐⭐⭐      |
 | Bootstrap           | ⭐⭐⭐      |
@@ -25,24 +32,37 @@
 | Markdown            | ⭐⭐         |
 | php                 | ⭐⭐         |
 | Java                | ⭐⭐         |
+| MongoDB             | ⭐           |
+| Express             | ⭐           |
+| vue.js              | ⭐           |
+| node.js             | ⭐           |
 | phyton              | ⭐           |
-| Jotform             | ⭐⭐⭐⭐    |
-| Zapier              | ⭐⭐⭐⭐⭐ |
+
+
+# Plataformas
+
+| Technology | Level |
+| ------ | ------ |
+| Salesforce MC       | ⭐⭐⭐      |
 | Excel & Power Query | ⭐⭐⭐⭐⭐ |
+| Zapier              | ⭐⭐⭐⭐⭐ |
+| Unbounce            | ⭐⭐⭐⭐⭐ |
+| Mailchimp           | ⭐⭐⭐⭐⭐ |
+| Jotform             | ⭐⭐⭐⭐    |
+| Moodle              | ⭐⭐⭐⭐    |
 | Power BI            | ⭐⭐⭐⭐    |
+| Git & GitHub        | ⭐⭐⭐⭐    |
+| Adobe Premiere      | ⭐⭐⭐⭐    |
 | Adobe Illustrator   | ⭐⭐⭐      |
 | AEM                 | ⭐⭐⭐      |
-| Mailchimp           | ⭐⭐⭐⭐⭐ |
-| Moodle              | ⭐⭐⭐⭐    | 
-| Unbounce            | ⭐⭐⭐⭐⭐ |
-| GitHub              | ⭐⭐⭐⭐    |
-| Adobe Premiere      | ⭐⭐⭐⭐    |
-| Adobe Photoshop     | ⭐⭐         |
 | Wordpress           | ⭐⭐⭐      |
 | SEO                 | ⭐⭐⭐      |
 | SemRush             | ⭐⭐⭐      |
-| Spanish             | ⭐⭐⭐⭐⭐ |
-| English             | ⭐⭐⭐⭐    |
+| postman             | ⭐⭐        |
+| Adobe Photoshop     | ⭐⭐         |
+| Android Studio      | ⭐           |
+
+
 
 ## I have worked with the following companies in **DIGIX**:
 
