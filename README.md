@@ -29,6 +29,11 @@
 | CSS                 | ⭐⭐⭐      |
 | Bootstrap           | ⭐⭐⭐      |
 | Javascript          | ⭐⭐         |
+| ampscript           | ⭐⭐        |
+| ssJs                | ⭐⭐        |
+| JQuery              | ⭐⭐        |
+| SQL                 | ⭐⭐         |
+| JSON                | ⭐⭐         |
 | Markdown            | ⭐⭐         |
 | php                 | ⭐⭐         |
 | Java                | ⭐⭐         |
@@ -37,6 +42,8 @@
 | vue.js              | ⭐           |
 | node.js             | ⭐           |
 | phyton              | ⭐           |
+| GTL guide template  | ⭐           |
+
 
 
 # Plataformas
@@ -66,21 +73,40 @@
 
 ## I have worked with the following companies in **DIGIX**:
 
+### Pharmaceuticals
+
 - **MSD** (Colombia, Cenca, Argentina, USA) [SFMC, Power BI]
 - **Merck** () [Wordpress]
 - **MSD Salud Animal** (Colombia, Regional Latam) [SFMC]
 - **Organon** (Colombia) [SFMC]
-- **Abbvie Colombia** () [AEM]
+- **Abbvie Colombia** () [AEM, SFMC]
 - **Astellas** () [Zapier, Jotform]
-- **Lomarosa** () [wordpress]
+- **AMGEN** () [Mailchimp, Zapier, Excel]
+- **Danone** (Argentina) []
+
+
+### Cibresecurity
+
 - **Forcepoint** [Excel & Power Query]
-- **Crowdstrike** [illustrator]
+- **Crowdstrike** [Web. illustrator]
+
+### Food industry
+
 - **Unilever NOLA** (Colombia, Mexico, Latam) [AEM, Mailchimp, Excel, Power BI]
 - **Unilever SOCO** (Argentina, Chile) [AEM, Mailchimp, Excel, Power BI]
-- **Coty (Wella, Sebastian, OPI)** (Colombia, Mexico, Costa Rica, Argentina) [Excel & Power Query]
-- **Danone** (Argentina) []
-- **Contex** [wordpress, jotform, mailchimp]
 - **USANA COLOMBIA** [Redes sociales, Excel y Power Query]
+- **Lomarosa** () [wordpress]
+
+### Hairdressing and personal care
+
+- **Coty (Wella, Sebastian, OPI)** (Colombia, Mexico, Costa Rica, Argentina) [Excel & Power Query]
+
+### Construction
+
+- **Contex** [wordpress, jotform, mailchimp]
+
+### Logistics
+
 - **Transborder** [Mailchimp]
 
 ## I'm currently working with **Johnson & Johnson** at **Globant**
